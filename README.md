@@ -1,11 +1,11 @@
 # State-retirement-dashboard
-This is the dashboard i created for the task assigned by my tutor in the 30 days cahllenge
+This is the dashboard i created for the task assigned by my tutor in the 30 days challenge
 
 It's been a long week at the #30dayslearning. In the past week, the focus was on improving my proficiency with excel and when my tutor asked us to create a dashboard using a data scrapped fom the web, I was more than excited to do it.
 
 
 #PROBLEM STATEMENT
-Post retirement, deciding on the state to settle in for the rest of our lives may be a hurdle and several factors may have to be considered in making this big decision,  if a data on affordability amongst other factors is readily available, then this problem may be close to its resolution.
+Post retirement, deciding on what state to settle in for the rest of our lives may be a hurdle and several factors may have to be considered in making this big decision,  if a data on affordability amongst other factors is readily available, then this problem may be close to its resolution.
 
 #DATA SOURCING
 I scrapped this data from the weblink:https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/
